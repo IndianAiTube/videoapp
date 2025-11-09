@@ -1,2 +1,2 @@
-[# Video App Link](https://indianaiaitube.github.io/videoapp/)
+[# Video App Link](https://indianaitube.github.io/videoapp/)
 (https://indianaitube.github.io/videoapp/)
